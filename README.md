@@ -22,7 +22,7 @@ The journey of this **Grow with Google Scholarship** was amazing & wonderful ðŸŒ
 
 8. [`My Reads: Book Tracking App`](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/tree/master/Part%205:%20Building%20with%20React/MyReads:%20A%20Book%20Tracking%20App)
 
-9. [`Neighborhood Map(React)`](<https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%235-building-with-react/neighborhood-map(react)-project7>)
+9. [`Neighborhood Map(React)`](https://github.com/archanaserver/neighborhood-map-react)
 
 ## My Udacity Journey ðŸ›£
 
