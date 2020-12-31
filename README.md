@@ -6,29 +6,29 @@ The journey of this **Grow with Google Scholarship** was amazing & wonderful �
 
 ## Projects I build 🛠
 
-1. [`Animal Trading Cards`](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%231-web-foundations/animal-trading-cards)
+1. [`Animal Trading Cards`](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/tree/master/Part%201:%20Web%20Foundations/Animal%20Trading%20Cards)
 
-2. [**Build a Portfolio Site**](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%231-web-foundations/portfolio-site)
+2. [`Build a Portfolio Site`](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/tree/master/Part%201:%20Web%20Foundations/Build%20a%20Portfolio%20Site)
 
-3. [Memory Game](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%232-web-programming-with-JS/memory-game)
+3. [`Memory Game`](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/tree/master/Part%202:%20Web%20Programming%20with%20JavaScript/Memory%20Game)
 
-4. [Pixel Art Maker](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%232-web-programming-with-JS/pixel-art-maker)
+4. [`Pixel Art Maker`](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/tree/master/Part%202:%20Web%20Programming%20with%20JavaScript/Pixel%20Art%20Maker)
 
-5. [Classic Arcade Game Master](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%233-exploring-JS-Objects-Tools-and-Testing/classic-arcade-game-master)
+5. [`Classic Arcade Game Master`](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/tree/master/Part%203:%20Exploring%20JS%20-%20Objects%2C%20Tools%20and%20Testing/Classic%20Arcade%20Game%20Clone)
 
-6. [Feed Reader Testing Project](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%233-exploring-JS-Objects-Tools-and-Testing/feed-reader-testing-project4)
+6. [`Feed Reader Testing Project`](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/tree/master/Part%203:%20Exploring%20JS%20-%20Objects%2C%20Tools%20and%20Testing/Feed%20Reader%20Testing)
 
-7. [Restaurant Review App](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%234-frontend-applications/fend-restaurant-reviews-project5)
+7. [`Restaurant Review App`](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/tree/master/Part%204:%20Front-End%20Applications/Restaurant%20Reviews%20App%E2%80%94Stage%201)
 
-8. [My Reads: Book Tracking App](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%235-building-with-react/myReads-app)
+8. [`My Reads: Book Tracking App`](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/tree/master/Part%205:%20Building%20with%20React/MyReads:%20A%20Book%20Tracking%20App)
 
-9. [Neighborhood Map(React)](<https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%235-building-with-react/neighborhood-map(react)-project7>)
+9. [`Neighborhood Map(React)`](<https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%235-building-with-react/neighborhood-map(react)-project7>)
 
 ## My Udacity Journey 🛣
 
-1. [Grow With Google (Part 1)](https://medium.com/@archanaserver/grow-with-google-652c87dc5fce)
+1. [`Grow With Google (Part 1`)](https://medium.com/@archanaserver/grow-with-google-652c87dc5fce)
 
-2. [Grow With Google (Part 2)](myStory.md)
+2. [`Grow With Google (Part 2)`](myStory.md)
 
 ## Certificate ♡
 
