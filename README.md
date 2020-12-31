@@ -2,13 +2,13 @@
 
 The journey of this **Grow with Google Scholarship** was amazing & wonderful 🌸
 
-> This repository contains all the `projects` and that I have build under this scholarship program. Also, you can read [my nanodegree journey stories](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/blob/master/myStory.md).
+> This repository contains all the `projects` and that I have build under this scholarship program. Also, you can read [`my nanodegree journey stories`](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/blob/master/myStory.md).
 
 ## Projects I build 🛠
 
-1. [Animal Trading Cards](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%231-web-foundations/animal-trading-cards)
+1. [`Animal Trading Cards`](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%231-web-foundations/animal-trading-cards)
 
-2. [Build a Portfolio Site](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%231-web-foundations/portfolio-site)
+2. [**Build a Portfolio Site**](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%231-web-foundations/portfolio-site)
 
 3. [Memory Game](https://github.com/archanaserver/udacity-frontend-nd-projects/tree/master/%232-web-programming-with-JS/memory-game)
 
