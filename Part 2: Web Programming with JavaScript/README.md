@@ -6,5 +6,5 @@
 
 ## What I Build?
 
-- Lab: [Pixel Art Maker]()
-- Project: [Memory Game]()
+- Lab: [Pixel Art Maker](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/tree/master/Part%202:%20Web%20Programming%20with%20JavaScript/Pixel%20Art%20Maker)
+- Project: [Memory Game](https://github.com/archanaserver/udacity-frontend-nanodegree-projects/tree/master/Part%202:%20Web%20Programming%20with%20JavaScript/Memory%20Game)
